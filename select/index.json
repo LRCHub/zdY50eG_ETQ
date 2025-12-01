@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スターライトキセキ",
+  "base_artist": "Amatsuki",
+  "createdAt": "2025-12-01T16:07:11.917043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターライトキセキ",
+      "artist": "Amatsuki",
+      "has_synced": true,
+      "path": "select/01_スターライトキセキ_Amatsuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スターライトキセキ",
+      "artist": "天月-あまつき",
+      "has_synced": true,
+      "path": "select/02_スターライトキセキ_天月-あまつき.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターライトキセキ",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/pl_01_スターライトキセキ_天月-あまつき-.txt"
+    }
+  ]
+}
